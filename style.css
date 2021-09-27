@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+i {
+  pointer-events: none;
+}
+
+body {
+  background: -webkit-gradient(linear, left top, right top, from(#5482ff), to(#64ff86));
+  background: linear-gradient(90deg, #b5ff54, #64ffd0);
+}
+
+header {
+  height: 20vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header h1 {
+  color: white;
+  font-size: 3rem;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+}
+p#Q1 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #ff64be, #54ffda);
+}
+
+p#A {
+  font-size: 26px;
+  background: linear-gradient(90deg, #b5ff54, #d0ff64);
+}
+
+p#Q2 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #ffa264, #54ffda);
+}
+
+p#Q3 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #e3ff64, #54ffda);
+}
+
+p#Q4 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #64ff7e, #54ffda);
+}
+
+p#Q5 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #64dbff, #54ffda);
+}
+
+p#Q6 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #2b47e9, #54ffda);
+}
+
+p#Q7 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #a32be9, #54ffda);
+}
+
+p#Q8 {
+  font-size: 30px;
+  background: linear-gradient(90deg, #e92bd9, #54ffda);
+}
+
+/*# sourceMappingURL=style.css.map */
+
